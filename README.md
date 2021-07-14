@@ -1,3 +1,3 @@
 # spring-security-poc
 
-Spring security with basic authenctication
+1. Spring security with basic authenctication.
